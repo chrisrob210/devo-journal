@@ -4,7 +4,7 @@ Created using PHP, JS, Bootstrap, and MySQL.
 
 Makes use of a database to store daily journal entries. Includes a secure login feature to keep user entries private.
 
-Login screen:
+Login screen:  
 ![login page](https://github.com/chrisrob210/devo-journal/blob/main/images/login.png?raw=true)
 
 Main page:
