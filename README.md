@@ -1,6 +1,5 @@
 # devo-journal
-A Devotional Journal Web App designed around the Kairos journal. For educational purposes only.
-Created using PHP, JS, Bootstrap, and MySQL.
+A Devotional Journal Web App designed around the Kairos journal. Created using PHP, JS, Bootstrap, and MySQL. For educational purposes only!
 
 Makes use of a database to store daily journal entries. Includes a secure login feature to keep user entries private.
 
