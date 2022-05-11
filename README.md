@@ -5,13 +5,13 @@ Created using PHP, JS, Bootstrap, and MySQL.
 Makes use of a database to store daily journal entries. Includes a secure login feature to keep user entries private.
 
 Login screen:
-![login page](https://chrisrobinson.great-site.net/projects/devotional/images/login.png)
+![login page](https://github.com/chrisrob210/devo-journal/blob/main/images/login.png?raw=true)
 
 Main page:
-![Main page](https://chrisrobinson.great-site.net/projects/devotional/images/main.png)
+![Main page](https://github.com/chrisrob210/devo-journal/blob/main/images/main.png?raw=true)
 
 Entry view:
-![entry view](https://chrisrobinson.great-site.net/projects/devotional/images/entry.png)
+![entry view](https://github.com/chrisrob210/devo-journal/blob/main/images/entry.png?raw=true)
 
 Edit view:
-![edit view](https://chrisrobinson.great-site.net/projects/devotional/images/edit.png)
+![edit view](https://github.com/chrisrob210/devo-journal/blob/main/images/edit.png?raw=true)
