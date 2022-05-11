@@ -1,0 +1,251 @@
+/* BootStrap overwrites */
+
+.navbar-devo {
+	background-color: rgb(255, 242, 232);
+}
+.bg-devo {
+	background-color: rgb(255, 242, 232);
+}
+
+.navbar .navbar-nav > li > a:hover, .navbar .navbar-nav > li > a:focus {
+    background-color: #cbc0d3;
+}
+  
+/* My CSS */
+
+body {
+	width: 80%;
+	margin: auto;
+	background-color: #6b705c;
+}
+
+header.container {
+	background-color: rgb(255, 242, 232);
+	text-align: center;
+	padding-bottom: 0.25em;
+	padding-top: 0.25em;
+}
+
+/* nav {
+	text-align: center;
+	padding: 0;
+	height: auto;
+	margin: auto;
+	margin-bottom: 0;
+} */
+
+.no-style {
+	list-style-type: none;
+	margin: auto;
+	width: fit-content;
+
+}
+
+.devo-align-left {
+	text-align: left;
+}
+
+/* li {
+	display: inline-block;
+} */
+
+/* Link Colors */
+
+.link-devo {
+ color: black;
+}
+
+.link-devo:hover {
+	color: #cbc0d3;
+}
+
+/* Stylized "Button" link */
+.devo {
+	text-decoration: none;
+	border: 1px solid white;
+	border-radius: 5px;
+	padding: 0.25em;
+	color: black;
+	background-color: #c9ada7;
+	box-shadow: 5px 3px 3px rgba(141, 141, 141, 0.5);
+}
+
+.devo:hover{
+	background-color: #cbc0d3;
+	color: black;
+}
+
+.devo:active{
+	box-shadow: none;
+}
+
+.devo-red {
+	text-decoration: none;
+	border: 1px solid white;
+	border-radius: 5px;
+	padding: 0.25em;
+	color: white;
+	background-color: red;
+	box-shadow: 5px 3px 3px rgba(141, 141, 141, 0.5);
+}
+
+.devo-red:hover {
+	box-shadow: none;
+	background-color: #cbc0d3;
+}
+
+.devo-dropdown {
+	background-color: white;
+}
+
+.devo-dropdown:hover {
+	background-color: #cbc0d3;
+	color: #534d57;
+}
+
+.devo-dropdown-warn:hover {
+	background-color: #cbc0d3;
+	color:red;
+}
+
+/* a:hover {
+	color: white;
+}
+
+a:active {
+	box-shadow: none;
+} */
+
+.container {
+	background-color: rgb(255, 242, 232);
+	padding: 1rem;
+	border-left-width: 3px;
+	border-right-width: 3px;
+	border-top-width: 0;
+	border-bottom-width: 0;
+	border-style: solid;
+	border-image: linear-gradient(to bottom, #4a4e69 0%, #efd3d7 35%, #6b705c 100%) 1 100;
+	padding-bottom: 1em;
+	text-align: center;
+	margin: auto;
+}
+
+form {
+	margin-block-end: 0;
+}
+
+table {
+	table-layout: fixed;
+	background-color: rgb(253, 247, 243);
+	border-collapse: unset;
+	border: 1px solid black;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	padding-left: 3px;
+	padding-right: 3px;
+	width: 100%;
+	border-spacing: 0;
+	box-shadow: 5px 3px 3px rgba(141, 141, 141, 0.5);
+}
+
+th {
+	border-bottom: 1px solid black;
+}
+
+table.journal tbody td {
+	/*border-top: 1px solid rgba(141, 141, 141, 0.5);*/
+	border-bottom: 1px solid rgba(141, 141, 141, 0.5);
+}
+
+tbody tr:hover {
+	background-color: #cbc0d3;
+}
+
+section {
+	margin-top: 1em;
+	padding-top: 1em;
+}
+
+.entry {
+	padding: 0;
+	text-align: center;
+	background-color: #fff4ef;
+	border: 1px solid black;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	box-shadow: 5px 3px 3px rgba(141, 141, 141, 0.5);
+}
+
+.entry-row {
+	display: flex;
+	padding: 0;
+
+	/* background-color: #f2e9e4;
+	border: 1px solid black;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	box-shadow: 5px 3px 3px rgba(141, 141, 141, 0.5); */
+}
+
+.entry-banner {
+	display: flex;
+	margin-top: 0.5em;
+	/* margin-bottom: 0.5em; */
+	width: 100%;
+	height: fit-content;
+	min-height: 1.5em;
+	background-color: #cbc0d3;
+}
+
+.entry-col {
+	flex: 1;
+	width: 50%;
+}
+
+.daily {
+	min-height: 5em;
+	margin: 1em;
+}
+
+.txt-lft {
+	margin: 0 2em 0 2em;
+	padding: 0.5em;
+	text-align: left;
+	border: 1px solid #b7b7a4;
+	background-color: white;
+	border-radius: 5px;
+	font-size: 0.90em;
+}
+
+.input-txt-lrg {
+	width: 100%;
+	height: 15em;
+	border: none;
+	border-radius: 5px;
+	margin: 0;
+}
+
+.input-txt-m {
+	width: 100%;
+	height: 5em;
+	border: none;
+	border-radius: 5px;
+	margin: 0;
+}
+
+.btn-journal {
+	border-radius: 7px;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	font-size: 0.8em;
+}
+
+.spacer {
+	min-height: 0.5em;
+}
